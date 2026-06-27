@@ -1,0 +1,8 @@
+{
+  "name": "NGO Connect",
+  "description": "An AI-powered volunteer, NGO, and donation platform connecting communities, volunteers, and donors with local causes, complete with real-time impact insights, community discussion, gamified awards, and fundraising metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
